@@ -5,6 +5,6 @@
     * -i : 서퍼 아이피, -p : 포트번호
  * server.py
     * python server.py -p 8888 -s 문자열
-    * -p : 포트번호, -d : 파일 디렉토리
+    * -p : 포트번호, -s : 
 
 ![client_server](https://user-images.githubusercontent.com/48250660/54414051-291e3980-473b-11e9-88f1-5b339dc93925.png)
