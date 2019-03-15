@@ -7,4 +7,5 @@
     * python server.py -p 8888 -s 문자열
     * -p : 포트번호, -d : 파일 디렉토리
 
-C:\Users\SS\Desktop\client_server.png
+
+![result](C:\Users\SS\Desktop\client_server.png)
