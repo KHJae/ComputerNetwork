@@ -7,4 +7,4 @@
     * python server.py -p 8888 -s 문자열
     * -p : 포트번호, -d : 파일 디렉토리
 
-![result](/path/to/client_server.jpg)
+
