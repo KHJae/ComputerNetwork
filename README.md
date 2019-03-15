@@ -8,4 +8,4 @@
     * -p : 포트번호, -d : 파일 디렉토리
 
 
-![result](C:\Users\SS\Desktop\client_server.png)
+![screenshot](C:\Users\SS\Desktop\client_server.png)
