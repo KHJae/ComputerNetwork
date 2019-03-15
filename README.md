@@ -8,4 +8,3 @@
     * -p : 포트번호, -d : 파일 디렉토리
 
 
-![screenshot](C:\Users\SS\Desktop\client_server.png)
