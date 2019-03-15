@@ -7,4 +7,4 @@
     * python server.py -p 8888 -s 문자열
     * -p : 포트번호, -d : 파일 디렉토리
 
-
+![client_server](https://user-images.githubusercontent.com/48250660/54414051-291e3980-473b-11e9-88f1-5b339dc93925.png)
